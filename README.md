@@ -5,7 +5,7 @@
 - 📫 How to reach me: latham91@icloud.com
 
 
-<img src="https://myreadme.vercel.app/api/embed/latham91?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img align="center" src="https://myreadme.vercel.app/api/embed/latham91?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=your-github-latham91&style=for-the-badge" /></div>
 <!---
