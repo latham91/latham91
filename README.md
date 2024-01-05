@@ -7,7 +7,7 @@
 
 - 🚀 Open to work
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm](https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs,mongodb,mysql,tailwindcss,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,mysql,tailwindcss,prisma,scss)](https://skillicons.dev)
 
 <div align="center"><img src="https://myreadme.vercel.app/api/embed/latham91?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /></div>
 
