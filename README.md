@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Aaron (@latham91)
 - 👀 I’m interested in building Web Apps.
 - 🌱 I’m currently learning more about Backend development.
-- 🎉 Self-taught developer with 2 years experience.
 - 💞️ I’m looking to collaborate on any projects that will improve my skillset.
 - 📫 How to reach me: latham91@icloud.com.
 
