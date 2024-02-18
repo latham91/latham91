@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Aaron (@latham91)
+- 👋 Hi, I’m Aaron (@latham91).
 - 👀 I’m interested in building Web Apps.
 - 🌱 I’m currently learning more about Backend development.
 - 💞️ I’m looking to collaborate on any projects that will improve my skillset.
-- 📫 How to reach me: latham91@icloud.com
+- 📫 How to reach me: latham91@icloud.com.
 
 - 🚀 Open to work
 
