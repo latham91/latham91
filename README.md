@@ -6,7 +6,7 @@
 
 - 🚀 Open to work
 
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,mysql,tailwindcss,prisma,scss" /></div>
+<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,mongoose,mysql,sequelize,tailwindcss" /></div>
 
 <div align="center"><img src="https://myreadme.vercel.app/api/embed/latham91?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /></div>
 
