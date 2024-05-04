@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any projects that will improve my skillset.
 - 📫 How to reach me: latham91@icloud.com.
 
-- 🚀 Open to work
+- 🚀 Looking for Junior Developer roles or Apprenticeships, Remote or On-site in Preston and surrounding areas.
 
 <div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,mysql,sequelize,tailwindcss" /></div>
 
